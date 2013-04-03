@@ -1,5 +1,5 @@
-This is an example for git in which we are testing stuff, and this is line 1.
+This is AN example for git in which we are testing stuff, and this is line 1.
 
-This is line number 2 for this example
+This is another line number 2 for this example
 
-This is line number 3 for this example too, I think this is enough
+This is line 3 for this example too, I think this is enough
