@@ -2,4 +2,4 @@ This is THING AN example for git in which we are testing stuff, and this is line
 
 This is anothr line number 2 for this example
 
-This is line 3 NORTH AMERICA for this example too, I think this is enough
+This is line 3 CHANGE NORTH AMERICA for this example too, I think this is enough
